@@ -1,6 +1,7 @@
 ## Repository of codes related to the project "AI solutions for sustainable cities" by Sony CSL - Rome.
 
 The repositories contain codes for image processing, metadata extraction, data analysis and development of a Crossroad risk index for smart monitoring of crossroads through edge-computing devices.
+
 Sony's IMX500 was used during the project and data about a crossroad monitoring was collected thanks to the Rome municipality.
 
 This resource has been developed with partial financial support of PNRR MUR project PE0000013-FAIR.
